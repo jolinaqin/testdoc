@@ -1,0 +1,35 @@
+本次公布的全部密钥分为两部分，区别在于是否使用了OEM Activation 3.0(OA 3.0)。一般来说，OA 3.0适用于Win8/Win8.1的OEM设备，而Win7设备并没有使用该技术。因此用户在使用这些密钥时应该区别对待。
+
+　　另外，中国用户主要使用到的密钥一般为Windows 10 Home(家庭版)、Windows 10 Pro(专业版)和Windows 10 CHN SL(中国版)，其他版本可能很少涉及。
+
+　　为了方便大家使用，密钥文字版整理如下：
+
+　　Win10 TH2正式版安装密钥(OA 3.0版)
+
+　　Win10家庭版 37GNV-YCQVD-38XP9-T848R-FC2HD
+
+　　Win10家庭版N 33C4Y-NPKCC-V98JP-42G8W-VH636
+
+　　Win10专业版 NF6HC-QH89W-F8WYV-WWXV4-WFG6P
+
+　　Win10专业版N NH7W7-BMC3R-4W9XT-94B6D-TCQG3
+
+　　Win10单语言版 NTRHT-XTHTG-GBWCG-4MTMP-HH64C
+
+　　Win10中国版 7B6NC-V3438-TRQG7-8TCCX-H6DDY
+
+　　Win10 TH2正式版安装密钥(非OA 3.0版)
+
+　　Win10家庭版 46J3N-RY6B3-BJFDY-VBFT9-V22HG
+
+　　Win10家庭版N PGGM7-N77TC-KVR98-D82KJ-DGPHV
+
+　　Win10专业版 RHGJR-N7FVY-Q3B8F-KBQ6V-46YP4
+
+　　Win10专业版N 2KMWQ-NRH27-DV92J-J9GGT-TJF9R
+
+　　Win10单语言版 GH37Y-TNG7X-PP2TK-CMRMT-D3WV4
+
+　　Win10中国版 68WP7-N2JMW-B676K-WR24Q-9D7YC
+
+　　这些密钥只能供Win10 TH2安装时使用，并不能用来对Win10系统进行进一步激活。
